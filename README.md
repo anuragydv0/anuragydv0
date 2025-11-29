@@ -1,7 +1,8 @@
-<!-- Header Banner -->
+<!-- Header Banner with Wave Animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:1E90FF,100:000000&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
+
 <!-- Animated Typing Effect -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Anurag+Yadav;B.Tech+3rd+Year+%7C+SWE+Aspirant;Full+Stack+Developer;Photographer+%26+Tech+Enthusiast;Aiming+for+18+LPA%2B+Placement!" alt="Typing SVG" />
@@ -11,10 +12,33 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anuragydv0&label=Profile%20Views&color=yellow&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/anuragydv0?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/anuragydv0?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
+---
 
+## 🚀 About Me
 
+```yaml
+name: Anurag Yadav
+location: Vadodara, India
+education: B.Tech 3rd Year
+goal: Crack 18 LPA+ Placement
+current_focus:
+  - DSA + Development
+  - Full Stack Web Development
+interests:
+  - Web Development
+  - AI & Prompt Engineering
+  - Competitive Programming
+  - Portrait Photography
+  - High-Graphics Gaming
+hobbies:
+  - Solo Mountain Travel ⛰️
+  - Cricket 🏏
+  - Photography 📸
+fun_fact: "I push limits, capture moments, and code dreams into reality!"
+```
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -31,6 +55,25 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/anurag-arc">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/anurag.arc">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:anuragydv0234@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/anuragydv0">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ### 👨‍💻 Programming Languages
@@ -40,7 +83,6 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
-
 
 ### 🎨 Frontend Development
 <p align="center">
@@ -73,13 +115,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuragydv0&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=1E90FF&text_color=FFFFFF&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragydv0&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuragydv0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=1E90FF&text_color=FFFFFF&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragydv0&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragydv0&theme=dark&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=1E90FF&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragydv0&theme=high-contrast&hide_border=true&bg_color=0D1117&color=FFD700&line=1E90FF&point=FFFFFF&area=true&area_color=1E90FF" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragydv0&theme=radical&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=1E90FF&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragydv0&theme=github-compact&hide_border=true&bg_color=0D1117&color=FFD700&line=1E90FF&point=FFFFFF&area=true&area_color=1E90FF" width="49%"/>
 </div>
 
 ---
@@ -87,7 +129,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anuragydv0&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anuragydv0&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophy" />
 </p>
 
 ---
@@ -108,67 +150,21 @@
 - 💼 Complete **10+ Full-Stack projects**
 - 📈 Solve **500+ DSA problems**
 - 🌟 Reach **1000+ GitHub contributions**
-- 📸 Grow photography portfolio
+- 📸 Grow **photography portfolio**
 
-------
+---
 
 ## 📂 Featured Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragydv0&repo=YOUR-REPO-NAME-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=1E90FF)](https://github.com/anuragydv0/YOUR-REPO-NAME-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragydv0&repo=YOUR-REPO-NAME-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=1E90FF)](https://github.com/anuragydv0/YOUR-REPO-NAME-2)
+<!-- Replace 'repo-name-1' and 'repo-name-2' with your actual repository names -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragydv0&repo=repo-name-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=1E90FF&text_color=FFFFFF)](https://github.com/anuragydv0/repo-name-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragydv0&repo=repo-name-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=1E90FF&text_color=FFFFFF)](https://github.com/anuragydv0/repo-name-2)
 
 </div>
 
---
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/anurag-arc">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/anurag.arc">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:anuragydv0234@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/anuragydv0">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_bg_color=0D1117&border_color=FFD700)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragydv0&theme=github_dark" width="100%"/>
-
----
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragydv0/anuragydv0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragydv0/anuragydv0/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anuragydv0/anuragydv0/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center"><i>⭐ More projects coming soon! Stay tuned...</i></p>
 
 ---
 
@@ -194,31 +190,41 @@
 </td>
 </tr>
 </table>
-### 💙 "Code. Capture. Conquer." 💛
 
-## 🚀 About Me
-```yaml
-name: Anurag Yadav
-location: Vadodara, India
-education: B.Tech 3rd Year
-goal: Crack 18 LPA+ Placement
-current_focus: 
-  - DSA + Development
-  - Full Stack Web Development
-interests: 
-  - Web Development
-  - AI & Prompt Engineering
-  - Competitive Programming
-  - Portrait Photography
-  - High-Graphics Gaming
-hobbies:
-  - Solo Mountain Travel ⛰️
-  - Cricket 🏏
-  - Photography 📸
-fun_fact: "I push limits, capture moments, and code dreams into reality!"
-```
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:1E90FF,100:000000&height=120&section=footer" width="100%"/>
+---
 
-### ⭐ Show some love by starring my repositories!
+## 💭 Random Dev Quote
 
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_bg_color=0D1117&border_color=FFD700)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragydv0&theme=radical" width="100%"/>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragydv0/anuragydv0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragydv0/anuragydv0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anuragydv0/anuragydv0/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:1E90FF,100:000000&height=120&section=footer" width="100%"/>
+  
+  ### 💙 "Code. Capture. Conquer." 💛
+  
+  <p>⭐ Show some love by starring my repositories!</p>
+  <p><i>Open to collaboration and exciting opportunities!</i></p>
+  
 </div>
