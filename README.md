@@ -12,33 +12,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anuragydv0&label=Profile%20Views&color=yellow&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/anuragydv0?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/anuragydv0?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-```yaml
-name: Anurag Yadav
-location: Vadodara, India
-education: B.Tech 3rd Year
-goal: Crack 18 LPA+ Placement
-current_focus:
-  - DSA + Development
-  - Full Stack Web Development
-interests:
-  - Web Development
-  - AI & Prompt Engineering
-  - Competitive Programming
-  - Portrait Photography
-  - High-Graphics Gaming
-hobbies:
-  - Solo Mountain Travel ⛰️
-  - Cricket 🏏
-  - Photography 📸
-fun_fact: "I push limits, capture moments, and code dreams into reality!"
-```
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -82,6 +59,7 @@ fun_fact: "I push limits, capture moments, and code dreams into reality!"
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ### 🎨 Frontend Development
@@ -142,11 +120,10 @@ fun_fact: "I push limits, capture moments, and code dreams into reality!"
 - ✅ Mastering **Data Structures & Algorithms**
 - ✅ Building **Full-Stack MERN Applications**
 - 🔄 Practicing **LeetCode & Competitive Programming**
-- 🔄 Exploring **AI/ML & Prompt Engineering**
+- 🔄 Exploring **AI/ML**
 - 🎯 Contributing to **Open Source Projects**
 
 ### 🎖️ 2025 Targets
-- 🏆 Crack **18+ LPA placement**
 - 💼 Complete **10+ Full-Stack projects**
 - 📈 Solve **500+ DSA problems**
 - 🌟 Reach **1000+ GitHub contributions**
@@ -182,7 +159,7 @@ fun_fact: "I push limits, capture moments, and code dreams into reality!"
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100px"/>
-<br><b>AI & Prompt Engineering</b>
+<br><b></b>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100px"/>
@@ -221,7 +198,29 @@ fun_fact: "I push limits, capture moments, and code dreams into reality!"
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:1E90FF,100:000000&height=120&section=footer" width="100%"/>
-  
+  ## 🚀 About Me
+
+```yaml
+name: Anurag Yadav
+location: Vadodara, India
+education: B.Tech 3rd Year
+goal: Crack 18 LPA+ Placement
+current_focus:
+  - DSA + Development
+  - Full Stack Web Development
+interests:
+  - Web Development
+  - AI & Prompt Engineering
+  - Competitive Programming
+  - Portrait Photography
+  - High-Graphics Gaming
+hobbies:
+  - Solo Mountain Travel ⛰️
+  - Cricket 🏏
+  - Photography 📸
+fun_fact: "I push limits, capture moments, and code dreams into reality!"
+```
+
   ### 💙 "Code. Capture. Conquer." 💛
   
   <p>⭐ Show some love by starring my repositories!</p>
