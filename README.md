@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:1E90FF,100:000000&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
-
 <!-- Animated Typing Effect -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Anurag+Yadav;B.Tech+3rd+Year+%7C+SWE+Aspirant;Full+Stack+Developer;Photographer+%26+Tech+Enthusiast;Aiming+for+18+LPA%2B+Placement!" alt="Typing SVG" />
@@ -12,32 +11,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anuragydv0&label=Profile%20Views&color=yellow&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/anuragydv0?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/anuragydv0?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
----
 
-## 🚀 About Me
-```yaml
-name: Anurag Yadav
-location: Vadodara, India
-education: B.Tech 3rd Year
-goal: Crack 18 LPA+ Placement
-current_focus: 
-  - DSA + Development
-  - Full Stack Web Development
-interests: 
-  - Web Development
-  - AI & Prompt Engineering
-  - Competitive Programming
-  - Portrait Photography
-  - High-Graphics Gaming
-hobbies:
-  - Solo Mountain Travel ⛰️
-  - Cricket 🏏
-  - Photography 📸
-fun_fact: "I push limits, capture moments, and code dreams into reality!"
-```
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -63,6 +40,7 @@ fun_fact: "I push limits, capture moments, and code dreams into reality!"
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
+
 
 ### 🎨 Frontend Development
 <p align="center">
@@ -132,17 +110,18 @@ fun_fact: "I push limits, capture moments, and code dreams into reality!"
 - 🌟 Reach **1000+ GitHub contributions**
 - 📸 Grow photography portfolio
 
----
+------
 
 ## 📂 Featured Projects
 
 <div align="center">
 
-<!-- Replace these with your actual project repos -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragydv0&repo=project-name-1&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=1E90FF&text_color=FFFFFF)](https://github.com/anuragydv0/project-name-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragydv0&repo=project-name-2&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=1E90FF&text_color=FFFFFF)](https://github.com/anuragydv0/project-name-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragydv0&repo=YOUR-REPO-NAME-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=1E90FF)](https://github.com/anuragydv0/YOUR-REPO-NAME-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragydv0&repo=YOUR-REPO-NAME-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=1E90FF)](https://github.com/anuragydv0/YOUR-REPO-NAME-2)
 
 </div>
+
+--
 
 ---
 
@@ -162,6 +141,8 @@ fun_fact: "I push limits, capture moments, and code dreams into reality!"
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
 
 ---
 
@@ -213,13 +194,29 @@ fun_fact: "I push limits, capture moments, and code dreams into reality!"
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-  
 ### 💙 "Code. Capture. Conquer." 💛
 
+## 🚀 About Me
+```yaml
+name: Anurag Yadav
+location: Vadodara, India
+education: B.Tech 3rd Year
+goal: Crack 18 LPA+ Placement
+current_focus: 
+  - DSA + Development
+  - Full Stack Web Development
+interests: 
+  - Web Development
+  - AI & Prompt Engineering
+  - Competitive Programming
+  - Portrait Photography
+  - High-Graphics Gaming
+hobbies:
+  - Solo Mountain Travel ⛰️
+  - Cricket 🏏
+  - Photography 📸
+fun_fact: "I push limits, capture moments, and code dreams into reality!"
+```
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:1E90FF,100:000000&height=120&section=footer" width="100%"/>
 
 ### ⭐ Show some love by starring my repositories!
