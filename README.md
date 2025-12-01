@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Anurag+Yadav;B.Tech+3rd+Year+%7C+SWE+Aspirant;Full+Stack+Developer;Photographer+%26+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Anurag+Yadav;B.Tech+Stuent%7C+SWE+Aspirant;Full+Stack+Developer;Photographer+%26+Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <!-- Profile Views & Badges -->
@@ -21,13 +21,13 @@
 
 ### 💫 Quick Highlights
 
-- 🎓 **B.Tech 3rd Year Student** passionate about software engineering
+- 🎓 **CSE Student** passionate about software engineering
 - 💻 Building **Full-Stack Web Applications** with modern technologies
 - 🧠 Exploring **AI & Prompt Engineering** to create smart solutions
 - 📸 **Portrait Photographer** with a keen eye for aesthetics
 - 🎮 Gaming enthusiast who loves **high-graphics experiences**
 - 🏔️ **Solo mountain traveler** who embraces challenges
-- 🎯 Currently grinding **DSA + Development** for dream placement
+- 🎯 Currently grinding **DSA + Development**
 - 📧 Reach me: **anuragydv0234@gmail.com**
 
 ---
@@ -123,7 +123,7 @@
 - 🔄 Exploring **AI/ML**
 - 🎯 Contributing to **Open Source Projects**
 
-### 🎖️ 2025 Targets
+### 🎖️ 2026 Targets
 - 💼 Complete **10+ Full-Stack projects**
 - 📈 Solve **500+ DSA problems**
 - 🌟 Reach **1000+ GitHub contributions**
@@ -203,8 +203,7 @@
 ```yaml
 name: Anurag Yadav
 location: Vadodara, India
-education: B.Tech 3rd Year
-goal: Crack 18 LPA+ Placement
+education: B.Tech Student
 current_focus:
   - DSA + Development
   - Full Stack Web Development
